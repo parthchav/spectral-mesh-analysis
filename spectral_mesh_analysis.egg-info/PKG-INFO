@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: spectral-mesh-analysis
+Version: 0.1.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: trimesh>=4.0
+Requires-Dist: pyvista>=0.43
