@@ -8,7 +8,7 @@ Exploring the spectral decomposition of the Laplace-Beltrami operator on triangl
 |---|----------|----------------|
 | 01 | [Laplacian Construction](notebooks/01_laplacian_construction.ipynb) | Building the cotangent and uniform Laplacians, mass matrix, verifying symmetry and null space |
 | 02 | [Eigenvector Visualization](notebooks/02_eigenvectors_visualization.ipynb) | Spectral decomposition, eigenvalue spectrum, visualizing eigenfunctions on sphere and torus |
-| 03 | [Spectral Embedding](notebooks/03_spectral_embedding.ipynb) | Laplacian eigenmaps, Fiedler vector bisection, 2D/3D spectral coordinates |
+| 03 | [Spectral Embedding](notebooks/03_spectral_embedding.ipynb) | Laplacian eigenmaps, 2D/3D spectral coordinates |
 
 ## Quick start
 
